@@ -7,6 +7,7 @@ I am a tech-forward creator bridging the gap between high-fidelity design and sc
 ---
 
 💡**What I Do**
+
 🛠️ **Web & SaaS Engineering:** Building scalable, serverless SaaS platforms (like IndicVoice) and robust web applications utilizing Node.js, React, and modern API-first architectures.
 
 📱 **Mobile App Development:** Architecting high-performance, cross-platform mobile applications focused on seamless end-user experiences and driving tangible business outcomes.
