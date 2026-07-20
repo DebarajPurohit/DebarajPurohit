@@ -34,8 +34,8 @@ Consistency is the foundation of scale. My daily operating system runs on a stri
 
 ### 📫 Let's Connect
 - **Upwork:** 
-- **Portfolio:** 
-- **Email:** 
+- **Portfolio:** www.debarajp.dev
+- **Email:** connect@debarajp.dev
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium" alt="Debaraj's GitHub Stats" />
