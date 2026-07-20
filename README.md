@@ -6,11 +6,14 @@ I am a tech-forward creator bridging the gap between high-fidelity design and sc
 
 ---
 
-### 💡 What I Do
-- 🛠️ **Engineering:** Building scalable, serverless SaaS platforms (like **IndicVoice**) utilizing Node.js, React, and Google AI Studio.
-- 🎨 **Design & Visuals:** Designing elite pitch decks on Upwork and generating AI-driven visual content (interior design concepts, consistent digital personas).
-- 🎥 **Content Creation:** Managing specialized YouTube channels spanning from architectural renovation timelapses to localized regional storytelling.
-- 📊 **Strategy:** Developing complex combinatorial logic and statistical models for high-variance data optimization.
+💡**What I Do**
+🛠️ **Web & SaaS Engineering:** Building scalable, serverless SaaS platforms (like IndicVoice) and robust web applications utilizing Node.js, React, and modern API-first architectures.
+
+📱 **Mobile App Development:** Architecting high-performance, cross-platform mobile applications focused on seamless end-user experiences and driving tangible business outcomes.
+
+🤖 **AI Integration & Automation:** Embedding custom AI capabilities (Google AI Studio) and intelligent workflows into software to modernize functionality and automate complex operations.
+
+📊 **Algorithmic Strategy & Optimization:** Designing complex combinatorial logic, algorithmic frameworks, and statistical models for high-variance data optimization and predictive processing.
 
 ### 💻 Tech Stack & Tooling
 
